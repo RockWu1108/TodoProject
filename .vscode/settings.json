@@ -1,0 +1,9 @@
+{
+    "solidity.compileUsingRemoteVersion": "v0.5.0+commit.1d4f565a",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}
